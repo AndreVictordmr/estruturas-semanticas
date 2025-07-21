@@ -1,3 +1,8 @@
 header{
-    font-size: 100px;
+    /*font-size: 100px; Aumento da fonte de texto */
+    border: 1px solid black;/*Delemita uma borda dizendo a croxura do traço sua cor e continuidade*/
+    /* background-color: aqua; Cor de fundo*/
+}
+nav,section,article,main,aside,footer{
+    border: 1px solid black;
 }
