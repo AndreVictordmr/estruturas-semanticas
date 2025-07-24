@@ -12,6 +12,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
 }
 
 .estruturas_semantica{
@@ -33,6 +34,24 @@
     background-color: beige;
 }
 
+section{
+    background-color: rgb(243, 231, 252);
+    width: 100%;
+    height: 400px;
+    padding: 10px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bloco_generico{
+    background-color: red;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+}
 article{
     display: inline;
 }
