@@ -1,12 +1,38 @@
-header{
-    /*font-size: 100px; Aumento da fonte de texto */
-    /*border: 1px solid black;Delemita uma borda dizendo a croxura do traço sua cor e continuidade*/
-    /* background-color: aqua; Cor de fundo*/
-    /*header,nav,section,article,main,aside,footer (nota " , " serve como "E mais algo"*/
+
+    /*font-size: 100px; Aumento da fonte de texto 
+      border: 1px solid black;Delemita uma borda dizendo a croxura do traço sua cor e continuidade
+      background-color: aqua; Cor de fundo
+    header,nav,section,article,main,aside,footer (nota " , " serve como "E mais algo"
+    Propriedades de tamanho
+    width: 100vw; 
+    height: 100vh;
+    Propriedades de espaçamento
+    margin: 0px;
+    padding : top right bottun left; e padding : top/bottun right/left;*/
+*{
+    padding: 0px;
+    margin: 0px;
 }
+
 .estruturas_semantica{
-    border: 1px solid black;
+    border: 0px solid black;
+    
+
 }
+
+#cabecalho{
+    padding: 10px 0px;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+
+#menu_principal{
+    width: 100%;
+    padding: 10px 0px ;
+    margin: 0px;
+    background-color: beige;
+}
+
 article{
     display: inline;
 }
