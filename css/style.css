@@ -1,9 +1,10 @@
 header{
     /*font-size: 100px; Aumento da fonte de texto */
-    border: 1px solid black;/*Delemita uma borda dizendo a croxura do traço sua cor e continuidade*/
+    /*border: 1px solid black;Delemita uma borda dizendo a croxura do traço sua cor e continuidade*/
     /* background-color: aqua; Cor de fundo*/
+    /*header,nav,section,article,main,aside,footer (nota " , " serve como "E mais algo"*/
 }
-nav,section,article,main,aside,footer{
+.estruturas_semantica{
     border: 1px solid black;
 }
 article{
