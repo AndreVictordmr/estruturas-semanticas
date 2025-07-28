@@ -1,20 +1,4 @@
 
-    /*font-size: 100px; Aumento da fonte de texto 
-      border: 1px solid black;Delemita uma borda dizendo a croxura do traço sua cor e continuidade
-      background-color: aqua; Cor de fundo
-    header,nav,section,article,main,aside,footer (nota " , " serve como "E mais algo"
-    Propriedades de tamanho
-    width: 100vw; 
-    height: 100vh;
-    Propriedades de espaçamento
-    margin: 0px;
-    padding : top right bottun left; e padding : top/bottun right/left;
-    Comandos de controle de layout:
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap; */
 *{
     padding: 0px;
     margin: 0px;
@@ -44,7 +28,6 @@ section{
     background-color: rgb(243, 231, 252);
     width: 100%;
     padding: 10px;
-    /*Comandos de controle de layout:*/
     display: flex;
     flex-direction: row;
     justify-content: space-between;
