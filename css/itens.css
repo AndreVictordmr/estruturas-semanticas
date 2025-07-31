@@ -42,15 +42,19 @@ div{
    /* align-self: flex-end;*/
 }
 
-#cabecalho{
+#cabecalho_danoni{
     width: 100%;
     height: 50px;
     margin: 0px 0px 10px 0px;
     background-color: yellow;
 }
-#rodape{
+#rodape_danoni{
     width: 100%;
     height: 50px;
     margin: 10px 0px 0px 0px;
     background-color: yellow;
+}
+#main_danoni{
+    padding: 10px;
+    /*display: none;*/
 }
